@@ -85,17 +85,17 @@ Material:
     m_Floats:
     - _EnableExternalAlpha: 0
     - _Lit: 1
-    - _Noise_Scale: 9
+    - _Noise_Scale: 57.47
     - _Pixelate: 0
-    - _Pixelation: 0
+    - _Pixelation: 16
     - _UV_TYPE: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 11.984315, g: 2.7621162, b: 0, a: 1}
+    - _EmissionColor: {r: 12.84447, g: 2.9603627, b: 0, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _Light_Color: {r: 1, g: 1, b: 1, a: 1}
     - _Noise_Max: {r: 0, g: 0, b: 0, a: 0}
-    - _Noise_Min: {r: 1, g: 0.4370891, b: 0, a: 0}
+    - _Noise_Min: {r: 1, g: 0.43708906, b: 0, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
